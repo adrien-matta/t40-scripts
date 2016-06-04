@@ -1,0 +1,11 @@
+pkill driver
+pkill linkTCP
+pkill master
+pkill peek
+pkill relayMBS
+pkill relayTCP
+pkill sinkMBS
+pkill sinkTCP
+pkill stats
+pkill TS_capabilities
+pkill TS_configuration
